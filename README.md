@@ -1,4 +1,4 @@
-# Sistemas Operativos Tarea 1
+# Ejecución
 Para ejecutar el programa se debe descargar shell.c luego en la terminar de Linux ejecutar mientras se esta en el path del archivo
 
 gcc -o shell shell.c
